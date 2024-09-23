@@ -1,6 +1,6 @@
-# Yummy: A Delicious Meals App
+# Yummy: A Delicious Meals App 😋🍽️
 
-Welcome to Yummy, where you can explore a delightful world of meals! 🍽️
+Welcome to Yummy, where you can explore a delightful world of meals!
 
 ## Overview
 
